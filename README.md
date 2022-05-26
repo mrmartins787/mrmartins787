@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💻 Currently making a Fullstack chat application 
 - 📦 Already built playStore applications(search for Ojaay on playstore)
 - 📧	mscottcab@gmail.com
-- 🎨 Portfolio: https://compassionate-torvalds-4cb88d.netlify.app/
+- 🎨 Portfolio: https://ochivictor.netlify.app/
 
 
